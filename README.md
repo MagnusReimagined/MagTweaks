@@ -13,12 +13,13 @@ This project has been rigorously tested on a wide range of systems, including Wi
 
 ## ©️ Credits
 TimerResolution Files
-- MeasureSleep.exe: Amitxv
-- SetTimerResolution.exe: Amitxv
-- TimerResolutionBenchmark.ps1: Amitxv
-- Dpclat.exe: Softpedia
+- MeasureSleep.exe: Amitxv (Original Github deleted)
+- SetTimerResolution.exe: Amitxv (Original Github deleted)
+- TimerResolutionBenchmark.ps1: Amitxv (Original Github deleted)
+- Dpclat.exe: [Thesycon](https://www.thesycon.de/eng/home.shtml)
 
 WinTweaks Files
-- PowerRun: Sordum Team
-- DevManView: Nirsoft
+- PowerRun: [Sordum Team](https://www.sordum.org/)
 - MagPlanPC.pow: MagnusTweaker
+- SCEWIN: [AMISCE](https://github.com/ab3lkaizen/SCEHUB)
+- Snappy Driver Installer Origin: [Glenn Delahoy](https://www.glenn.delahoy.com/snappy-driver-installer-origin)
