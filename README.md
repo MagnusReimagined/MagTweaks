@@ -20,6 +20,6 @@ TimerResolution Files
 
 WinTweaks Files
 - PowerRun: [Sordum Team](https://www.sordum.org/)
-- MagTweaksV4.pow: MagnusTweaker
+- MagTweaksV4.pow: [MagnusTweaker]([https://www.glenn.delahoy.com/snappy-driver-installer-origin](https://github.com/MagnusReimagined/MagTweaks/edit/main/README.md))
 - SCEWIN: [AMISCE](https://github.com/ab3lkaizen/SCEHUB)
 - Snappy Driver Installer Origin: [Glenn Delahoy](https://www.glenn.delahoy.com/snappy-driver-installer-origin)
